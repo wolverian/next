@@ -6,7 +6,7 @@ This example shows the most basic idea behind Next. We have 2 pages: `pages/inde
 
 Deploy the example using [ZEIT Now](https://zeit.co/now):
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/zeit/next.js/tree/canary/examples/hello-world)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/zeit/next.js/tree/canary/examples/hello-world) [![Greenkeeper badge](https://badges.greenkeeper.io/wolverian/next.svg)](https://greenkeeper.io/)
 
 ## How to use
 
